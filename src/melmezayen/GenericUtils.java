@@ -1,3 +1,5 @@
+package melmezayen;
+
 /**
  * Utility class that contains generic helper methods.
  */
